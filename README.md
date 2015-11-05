@@ -4,7 +4,7 @@ This makes it easier to work for with
 [the Eclipse Bundlor tool](https://www.eclipse.org/virgo/documentation/bundlor-documentation-1.1.2.RELEASE/docs/user-guide/htmlsingle/user-guide.html)
 for Gradle and OSGi containers (including Adobe CQ/AEM).
 
-[ ![Download](https://api.bintray.com/packages/twcable/aem/com.twcable.gradle:gradle-plugin-bundlor/images/download.svg) ](https://bintray.com/twcable/aem/gradle-plugin-bundlor/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/twcable/aem/gradle-plugin-bundlor/images/download.svg) ](https://bintray.com/twcable/aem/gradle-plugin-bundlor/_latestVersion)
 
 # Usage #
 
